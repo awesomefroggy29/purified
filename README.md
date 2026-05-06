@@ -14,7 +14,11 @@ well, i like linux, and i like roblox. and i don't know how to code in c or c++.
 
 
 # how does it work? 
-eh, ill update this later
+in simple terms:
+android is based on linux, which means they are somewhat compatible with each other. this mostly occurs in the types of executables they use, which are both ELF(executable and linkable format). 
+<br>
+in more advanced terms:
+__uh ill update later__
 
 
 # bro you suck why do u use ai
