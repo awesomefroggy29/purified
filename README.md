@@ -1,5 +1,5 @@
 <h2> this project isnt finished or released yet!!</h2>
-<h4> the grammar in here is also more changed for the future</h4>
+<h4> the grammar in here is also fit for the future, so dont get confused</h4>
 <br>
 <br>
 
