@@ -1,4 +1,4 @@
-<h2> this project isnt released yet!!</h2>
+<h2> this project isnt finished or released yet!!</h2>
 <br>
 <br>
 
