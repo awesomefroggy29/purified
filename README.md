@@ -6,8 +6,7 @@ Sober did say they were working on an arm port, and did give image evidence, but
 
 
 # Disclaimer
-this entire project is actually fully made with AI. This project is also closed source, and will probably stay closed source to prevent abuse(like Sober). If you are uncomfortable with these things and don't like it and you really want to make sure its safe, then you can go to __insert file location__, get the __insert binary name__ and drop it into virustotal. if it still doesnt convince you or you dont like ai, then you can simply not use purified.
-
+this entire project is actually fully made with AI. This project is also closed source, and will probably stay closed source to prevent abuse(like Sober). If you are uncomfortable with these things, don't like it, or think it may be unsafe, you are fully welcome to go to __insert file location__, get the __insert binary name__, and scan it with virustotal. If that still doesn't convince you, or you simply don't like AI, then you can choose not to use purified. this is a passion project after all.
 
 # Why did I make this?
 well, i like linux, and i like roblox. and i don't know how to code in c or c++. but you know who does? AI. SO.. through a couple weeks and my entire chatgpt subscription, Codex made a (somewhat) fully functional app to bridge the android version of roblox to linux. 
