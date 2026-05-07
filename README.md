@@ -1,3 +1,8 @@
+<h2> this project isnt released yet!!</h2>
+<br>
+<br>
+
+
 # purified
 <img width="128" height="128" alt="purified" src="https://github.com/user-attachments/assets/f5494e6a-41cb-4e83-9123-e1060f48704a" />
 
