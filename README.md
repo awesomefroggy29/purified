@@ -25,11 +25,11 @@ android is based on linux, which means they are somewhat cross-compatible with e
 <br>
 <br>
 __in more advanced terms:__
-uh ill update later
+refer to [project.md](https://github.com/awesomefroggy29/purified/blob/main/project.md) for the codex-generated project map.
 
 
 # bro you suck why do u use ai
-ok like i said, i dont know how to code. and if you really dont like that i used ai, then its as simple as NOT USING THIS!!
+like i said, i dont know how to code in c++. and if you really dont like that i used ai, then its as simple as NOT USING THIS!!
 
 
 # is there or is there going to be a 32 bit arm version?
