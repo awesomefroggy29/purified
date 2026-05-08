@@ -37,7 +37,8 @@ since roblox also makes apks for arm 32 bit, most likely, but maybe not. i dont 
 
 
 # is this ever going to be open source????? 
-__NO__
+__NO__ <br>
+well.. maybe BUT DONT COUNT ON IT
 
 
 # random questions you might have
