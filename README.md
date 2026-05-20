@@ -1,3 +1,5 @@
+<h5>purified is not affiliated with roblox.</h5>
+
 <h2> this project isnt finished or released yet!!</h2>
 <h4> the grammar in here is also fit for the future, so dont get confused</h4>
 <h4> if you would like to test this once it can be tested, please comment in https://github.com/awesomefroggy29/purified/issues/2 what computer you have, what cpu it has, and the page size of your os.</h4>
