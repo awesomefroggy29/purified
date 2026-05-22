@@ -76,6 +76,19 @@ Tail-enqueue task-queue experiment:
 - Best observed tail run produced `packet_dispatch:19`, `task_dispatch` activity, and `real_gles_packet_link` rising as high as 68 external readbacks before watchdog recovery.
 - The top dispatcher is a scheduler loop, so simply changing its return value does not terminate it. The next tail-enqueue step is to preserve more of the real dispatcher while only shaping unsafe Android thread/worker callbacks.
 
+Task-dispatch callback bridge experiment:
+
+- The task-dispatch `out` structure now records live libroblox-relative pointee addresses using the active image load bias, because parent-side report image bases can be stale in child reports.
+- That telemetry proved the first `out` callback points at Roblox code around `0x26664e8` / `0x2666708`, so the bridge now recognizes those callbacks by live vaddr as well as by host helper address.
+- `PURIFIED_SURFACE_RUN_TASK_DISPATCH_EMULATE_OUT_CALLBACK=host-copy32`, `copy1`, and `clear-callback` all now genuinely fire (`emu:32/64`, and `cb:32` for the host-copy path), including with dispatch return forced to `1`.
+- These variants still produce only the reset-only external UI record stream and do not advance beyond the current GLES plateau (`gl:257`, `external_draw_forward:0`, `best_unique:1`). That rules out raw callback recognition, callback copy shape, and task-dispatch return value as the immediate sign-in blocker.
+
+WebViewProtocol handshake diagnostic:
+
+- `PURIFIED_NATIVE_UI_ALLOW_WEBVIEW_HANDSHAKE=1` lets the native-only packet lane complete the Roblox WebViewProtocol handshake while keeping the host WebView overlay disabled.
+- The diagnostic reaches `webview:1 login_window:1 open:1 mutate:1` and records the real login URL, but still leaves the Roblox-rendered packet stream reset-only.
+- This confirms the website/WebView path is not the missing trigger for Roblox-created sign-in UI. The flag remains opt-in so the native UI lane stays focused on app-surface rendering.
+
 Current blocker:
 
 - The post-target packet stream reaches the host surface queue and is now displayed as packet-linked readback content, but it still resolves to placeholder-like output rather than a real app UI.
