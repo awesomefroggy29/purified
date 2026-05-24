@@ -29,13 +29,12 @@ android is based on linux, which means that they share similarities in how the o
 like i said, i dont know how to code in c++. and if you really dont like that i used ai, then its as simple as NOT USING THIS!!
 
 
-# is there or is there going to be a 32 bit arm version?
+# is there going to be a 32 bit arm version?
 since roblox also makes apks for arm 32 bit, most likely, but maybe not. i dont know yet because i havent looked into it.
 
 
 # is this ever going to be open source????? 
-__NO__ <br>
-well.. maybe BUT DONT COUNT ON IT
+it is very unlikely, but there may be a possibility <br>
 
 
 # random questions you might have
