@@ -14,10 +14,10 @@ Sober did say they were working on an arm port, and did give image evidence, but
 
 
 # Disclaimer
-this project is being fully made with ai, or as people say, "vibe coded." this project is also currently in the works. it is not ready yet, but significant progress has shown. at first my goal was to launch the native roblox sign in screen, but i then realized that it would be slower than just using webview to launch roblox.com and simulate a web launch, which will skip the entire process of having to build the runtime for the sign in screen and main homepage. 
+this project is being fully made with ai, or as people say, "vibe coded." this project is also currently in the works. it is not ready yet, but significant progress has shown. at first my goal was to launch the native roblox sign in screen, but i then realized that it would take longer than just using webview to launch roblox.com and simulate a web launch, which will skip the entire process of having to build the runtime for the sign in screen and main homepage. 
 
 # Why am I making this?
-well, i like linux, and i like roblox. and i don't know how to code in c or c++. but you know who does? AI. SO.. through a couple weeks and my entire chatgpt subscription, Codex made a (somewhat) fully functional app to bridge the android version of roblox to linux. 
+well, i like linux, and i like roblox. and i don't know how to code in c or c++. but you know who does? AI. so im making a runtime for roblox because people like running games on their pi.
 
 
 # how does it work? 
