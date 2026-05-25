@@ -2,6 +2,7 @@
 
 <h2> this project isnt finished or released yet!!</h2>
 <h4> if you would like to test this once it can be tested, please comment in https://github.com/awesomefroggy29/purified/issues/2 what computer you have, what cpu it has, and the page size of your os.</h4>
+<h2> there is also a test website [here](https://awesomefroggy29.github.io/purified/) which i will probably update later once this project gets going.</h2>
 <br>
 <br>
 
