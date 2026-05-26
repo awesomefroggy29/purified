@@ -18,7 +18,7 @@ Sober is working on an arm port, but it isnt their top priority.
 this project is being fully made with ai, or as people say, "vibe coded." this project is also currently in the works. it is not ready yet, but significant progress has shown. at first my goal was to launch the native roblox sign in screen, but i then realized that it would take longer than just using webview to launch roblox.com and simulate a web launch, which will skip the entire process of having to build the runtime for the sign in screen and main homepage. 
 
 # Why am I making this?
-well, i like linux, and i like roblox. and i don't know how to code in c or c++. but you know who does? AI. so im making a runtime for roblox because people like running games on their pi.
+roblox technically is possible to play on linux using something like waydroid, but there is many problems. ex: no proper mouse lock, laggier than native, and games think youre playing on mobile. this inspired me to have a go at this. however, i don't know how to code in c or c++. but you know who does? AI. so im making a runtime for roblox because people like running games on their pi.
 
 
 # how does it work? 
