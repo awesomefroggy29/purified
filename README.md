@@ -10,8 +10,8 @@
 # purified
 <img width="128" height="128" alt="purified" src="https://github.com/user-attachments/assets/f5494e6a-41cb-4e83-9123-e1060f48704a" />
 
-Roblox runtime for arm64 Linux which bridges the android version of roblox to native linux. This project is inspired by Sober(they took too long).
-Sober did say they were working on an arm port, and did give image evidence, but it doesnt seem like it's their top priority. 
+Roblox runtime for arm64 Linux which bridges the android version of roblox to native linux. This project is inspired by Sober.
+Sober is working on an arm port, but it isnt their top priority. 
 
 
 # Disclaimer
