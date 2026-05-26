@@ -35,9 +35,9 @@ since roblox also makes apks for arm 32 bit, most likely, but maybe not. i dont 
 
 
 # is this ever going to be open source????? 
-it is very unlikely, but there may be a possibility. The reason for this is because making this open source would lead to these problems:
+it is very unlikely, but there may be a possibility. The reason for this is because making this open source would likely lead to these problems:
 <ul>
-  <li>Roblox likely patching the workarounds to run roblox on linux</li>
+  <li>Roblox patching the workarounds to run roblox on linux</li>
   <li>abuse of the runtime to create bot farms</li>
   <li>spamming of issues in the code</li>
 </ul>
@@ -51,14 +51,6 @@ it is very unlikely, but there may be a possibility. The reason for this is beca
 blender
 <br>
 <br>
-
-
-"will i be able to bot farm?"
-<br>
-__NO__
-<br>
-<br>
-
 
 # current progress:
 refer to [project.md](https://github.com/awesomefroggy29/purified/blob/main/project.md) for a codex-generated project map and explanation of whats happening so far. 
