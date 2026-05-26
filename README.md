@@ -35,7 +35,14 @@ since roblox also makes apks for arm 32 bit, most likely, but maybe not. i dont 
 
 
 # is this ever going to be open source????? 
-it is very unlikely, but there may be a possibility <br>
+it is very unlikely, but there may be a possibility. The reason for this is because making this open source would lead to these problems:
+<ul>
+  <li>Roblox likely patching the workarounds to run roblox on linux</li>
+  <li>abuse of the runtime to create bot farms</li>
+  <li>spamming of issues in the code</li>
+</ul>
+
+<br>
 
 
 # random questions you might have
