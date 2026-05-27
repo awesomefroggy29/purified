@@ -1,6 +1,6 @@
 <h5>purified is not affiliated with roblox.</h5>
 
-<h2> this project isnt finished or released yet!!</h2>
+<h2> this project isnt finished or released yet!! current progress: getting closer to actually playing a game(40-ish percent there)</h2>
 <h4> if you would like to test this once it can be tested, please comment in https://github.com/awesomefroggy29/purified/issues/2 what computer you have, what cpu it has, and the page size of your os.</h4>
 <h4> there is also a test website <a href="https://awesomefroggy29.github.io/purified">here</a> which i will probably update later once this project gets going.</h4>
 <br>
