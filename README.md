@@ -43,6 +43,8 @@ it is very unlikely, but there may be a possibility. The reason for this is beca
 </ul>
 
 <br>
+
+
 # current progress:
 refer to [project.md](https://github.com/awesomefroggy29/purified/blob/main/project.md) for a codex-generated project map and explanation of whats happening so far. 
 <br>
